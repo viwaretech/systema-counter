@@ -43,13 +43,10 @@ Optimized for low-power microcontrollers like ESP8266.
 flowchart LR
 
 A[🏭 Machine] --> B[📡 ESP8266]
-B --> C[📶 Router / WiFi]
+B --> C[📶 WiFi]
 C --> D[🖥 Server]
 
-D --> E[💻 PC Client]
 D --> F[📱 Phone Client]
-
-E -. Access Dashboard .-> D
 F -. Access Dashboard .-> D
 ```
 
