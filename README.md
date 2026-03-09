@@ -1,4 +1,4 @@
-# 📊 SystemaCounter
+# 📊 systema-counter
 
 ![ESP8266](https://img.shields.io/badge/ESP8266-Device-E7352C?style=plastic&logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Connected-4CAF50?style=plastic&logo=internetofthings&logoColor=white)
@@ -8,7 +8,7 @@
 ![Windows](https://img.shields.io/badge/Android-Compatible-0078D6?style=plastic&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPLv3-red)
 
-> **SystemaCounter** is an IoT-based daily reporting system designed for manufacturing environments.  
+> **systema-counter** is an IoT-based daily reporting system designed for manufacturing environments.  
 > It collects production counter data using **ESP8266 devices**, transmits the data through a **WiFi network**, and provides monitoring dashboards accessible via **PC or mobile devices**.
 
 The system helps factories monitor production output, track machine activity, and generate daily reports automatically.
@@ -108,10 +108,10 @@ _(Adjust according to your actual implementation)_
 
 ## 📥 Download
 
-- **SystemaCounter App (Beta version / Latest)**  
-   ![Release](https://img.shields.io/github/v/release/viwaretech/SystemaCounter?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/SystemaCounter?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260128-E7352C)<br>
-  ➡️ [Release Page](https://github.com/viwaretech/SystemaCounter/releases/latest)  
-   ➡️ [Download](https://github.com/viwaretech/SystemaCounter/releases/latest/download/SystemaCounter.rar)
+- **systema-counter App (Beta version / Latest)**  
+   ![Release](https://img.shields.io/github/v/release/viwaretech/systema-counter?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/systema-counter?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260128-E7352C)<br>
+  ➡️ [Release Page](https://github.com/viwaretech/systema-counter/releases/latest)  
+   ➡️ [Download](https://github.com/viwaretech/systema-counter/releases/latest/download/systema-counter.rar)
 
 ---
 
