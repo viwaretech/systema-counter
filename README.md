@@ -108,7 +108,7 @@ _(Adjust according to your actual implementation)_
 
 ## 📥 Download
 
-- **systema-counter App (Beta version / Latest)**  
+- **SystemaCounter App (Beta version / Latest)**  
    ![Release](https://img.shields.io/github/v/release/viwaretech/systema-counter?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/systema-counter?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260128-E7352C)<br>
   ➡️ [Release Page](https://github.com/viwaretech/systema-counter/releases/latest)  
    ➡️ [Download](https://github.com/viwaretech/systema-counter/releases/latest/download/systema-counter.rar)
